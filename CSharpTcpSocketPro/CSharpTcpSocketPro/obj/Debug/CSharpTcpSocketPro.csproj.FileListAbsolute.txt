@@ -1,0 +1,5 @@
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketPro\bin\Debug\CSharpTcpSocketPro.dll
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketPro\bin\Debug\CSharpTcpSocketPro.pdb
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketPro\obj\Debug\CSharpTcpSocketPro.csproj.CoreCompileInputs.cache
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketPro\obj\Debug\CSharpTcpSocketPro.dll
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketPro\obj\Debug\CSharpTcpSocketPro.pdb

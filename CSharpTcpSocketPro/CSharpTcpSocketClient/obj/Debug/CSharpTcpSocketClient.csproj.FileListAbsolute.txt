@@ -1,0 +1,12 @@
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\bin\Debug\CSharpTcpSocketClient.exe.config
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\bin\Debug\CSharpTcpSocketClient.exe
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\bin\Debug\CSharpTcpSocketClient.pdb
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\bin\Debug\CSharpTcpSocketPro.dll
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\bin\Debug\CSharpTcpSocketPro.pdb
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.csprojAssemblyReference.cache
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.Properties.Resources.resources
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.csproj.GenerateResource.cache
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.csproj.CopyComplete
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.exe
+C:\Users\Hacker\source\repos\CSharpTcpSocketPro\CSharpTcpSocketClient\obj\Debug\CSharpTcpSocketClient.pdb
